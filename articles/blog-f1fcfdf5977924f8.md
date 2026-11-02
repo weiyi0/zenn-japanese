@@ -3,7 +3,7 @@ title: "Bluetooth Meshゲートウェイのチップ選び：Telink、Silicon La
 emoji: '🔌'
 type: 'tech'
 topics: ["matter", "bluetooth", "iot"]
-published: false
+published: true
 ---
 
 [前回の記事](https://ay3s.com/ja/articles/sig-mesh-or-private-protocol-for-gateway/)で、2つのことを決めました。デバイスとゲートウェイの間は SIG Mesh で通信すること。そしてゲートウェイ側では、Mesh プロトコルスタックを独立した Bluetooth モジュールに載せ、Linux のメインプログラムからシリアル経由で操作することです。
